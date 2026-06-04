@@ -6,9 +6,13 @@
 
 **Инструменты:** 
 -Python (Pandas, Matlotlib)
+
 -PostgreSQL (SQL - DDL, DML, JOIN, Window Functions, Indexes)
+
 -Power BI (DAX)
+
 -C/C++
+
 -Excel(VBA)
 
 
