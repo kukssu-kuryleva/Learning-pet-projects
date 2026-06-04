@@ -35,6 +35,13 @@
 
 ## 📁 Структура репозитория
 
+## 📁 Структура репозитория
 
+| Папка/Файл | Описание |
+|---|---|
+| [`database/`](database) | Схема БД |
+| [`database/schema.sql`](schema.sql) | CREATE TABLE, индексы, ограничения |
+| [`sql_queries/`](sql_queries) | SQL-запросы |
+| [`sql_queries/analytics.sql`](sql_queries) | 11 запросов (JOIN, GROUP BY, оконные функции) |
 
   
