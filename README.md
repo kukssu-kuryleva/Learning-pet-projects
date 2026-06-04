@@ -38,8 +38,10 @@
 
 | Папка/Файл | Описание |
 |---|---|
-| [`database/`](database) | Схема БД |
-| [`sql_queries/`](sql_queries) | SQL-запросы |
+| [`database/`](database) | Схема базы данных (PostgreSQL) |
+| [`sql_queries/`](sql_queries) | Аналитические SQL-запросы |
+| [`py_analyze/`](py_analyze) | Python-аналитика (Jupyter Notebook, графики) |
+| [`dashboard/`](dashboard) | Дашборды в Power BI (PDF) |
  
 ## 📊 Анализ на Python (Pandas) 
 
