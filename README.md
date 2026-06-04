@@ -5,11 +5,11 @@
 **Образование:** СПбГУ, Прикладная математика и информатика'28, кафедра Математической теории экономических решений
 
 **Инструменты:** 
-Python (Pandas, Matlotlib)
-PostgreSQL (SQL - DDL, DML, JOIN, Window Functions, Indexes)
-Power BI (DAX)
-C/C++
-Excel(VBA)
+-Python (Pandas, Matlotlib)
+-PostgreSQL (SQL - DDL, DML, JOIN, Window Functions, Indexes)
+-Power BI (DAX)
+-C/C++
+-Excel(VBA)
 
 
   
