@@ -5,11 +5,11 @@
 **Образование:** СПбГУ, Прикладная математика и информатика'28, кафедра Математической теории экономических решений
 
 **Инструменты:**  
--Python (Pandas, Matplotlib)  
--PostgreSQL (SQL - DDL, DML, JOIN, Window Functions, Indexes)  
--Power BI (DAX), Tableau  
--C/C++  
--Excel(VBA)
+- Python (Pandas, Matplotlib)  
+- PostgreSQL (SQL - DDL, DML, JOIN, Window Functions, Indexes)  
+- Power BI (DAX), Tableau  
+- C/C++  
+- Excel(VBA)
 
 ## 🚀 Курсовой проект: Проектирование и реализация базы данных для системы менторской поддержки выпускников детских домов
 
