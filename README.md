@@ -7,7 +7,7 @@
 **Инструменты:**  
 -Python (Pandas, Matplotlib)  
 -PostgreSQL (SQL - DDL, DML, JOIN, Window Functions, Indexes)  
--Power BI (DAX), Tableau
+-Power BI (DAX), Tableau  
 -C/C++  
 -Excel(VBA)
 
