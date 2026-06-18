@@ -44,6 +44,13 @@
 | [`dashboard/`](dashboard) | Дашборд в Tableau |
 
 ## 📊 Построение дашборда 
+
+**Визуализация:** Tableau Public
+**Дизайн элементов:** Figma
+
+## 🔗 Посмотреть дашборд
+**[Интерактивный дашборд на Tableau Public](https://public.tableau.com/views/Mentorprogram/sheet0)**
+
 ![Обзор программы](dashboard/dashboard.jpg)
 
  
